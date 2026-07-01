@@ -1,0 +1,6 @@
+{
+  "name": "Arabic Sales Analyzer & Forecasting AI",
+  "description": "منصة ذكية متكاملة لتحليل المبيعات، التنبؤ بالأداء المالي للمشرفين والمناديب باستخدام محرك تعلّم الآلة ومساعد محادثة ذكي باللغة العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
